@@ -1,8 +1,8 @@
 HTTP methods description:
- * /order/add	            POST    Adds an order
- * /order/{id}/get	      GET	    Get order by 'id' in the URI
- * /order/{time}/getAll	  GET     Get all orders by 'time' in the URI
- * /order/{id}/update	    PUT	    Update the with 'id' in the URI
+ * /order/add - POST - Adds an order
+ * /order/{id}/get - GET - Get order by 'id' in the URI
+ * /order/{time}/getAll - GET - Get all orders by 'time' in the URI
+ * /order/{id}/update - PUT - Update the with 'id' in the URI
  
  HTTP response status codes:
  Client error responses:
